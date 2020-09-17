@@ -1,0 +1,43 @@
+p.st {
+    margin-top: -1em;
+}
+span.mfw {
+    color: #730000;
+}
+span.wr {
+    color: #c0392b;
+    font-weight: 600;
+    text-decoration: underline;
+}
+small {
+    font-size: .4em;
+}
+span.sb {
+    color: #00e;
+}
+span.sv {
+    color: #551a8b;
+}
+h1,h2,h3
+{
+line-height: 1.2;
+}
+body {
+    font-family: Open Sans,Arial;
+    color: #454545;
+    font-size: 16px;
+    margin: 2em auto;
+    max-width: 800px;
+    padding: 1em;
+    line-height: 1.4;
+    text-align: justify;
+}
+div.fancyPositioning div.picture-left {
+    float: left;
+    width: 40%;
+    overflow: hidden;
+    margin-right: 1em;
+}
+div.fancyPositioning div.picture-left figure {
+    margin: 10px;
+}
